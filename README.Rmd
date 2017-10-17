@@ -1,0 +1,18 @@
+The High Frequncy check template R zip file has the following folders:
+
+1. R script
+2. Stata do file
+
+The R script folder has the following files:
+
+1. `HFC_template.R`
+2. `dummy_main.dta`
+
+The Stata do file folder has the following files:
+
+1. `HFC_template_2.do`
+2. `dummy_main.dta`
+
+Ideally, a participant can read through the annotated R script and try each step by runnning the R script using `dummy_data.dta` as a dummy dataset in lieu of actual survey data.
+
+If the participant is comfortable with Stata, the equivalence can also be checked.
